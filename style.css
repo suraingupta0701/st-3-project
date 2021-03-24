@@ -1,0 +1,26 @@
+.new-form {
+  background-color: rgb(200, 168, 250);
+  text-align: center;
+  min-height: 50vh;
+  width: 50%;
+  align-items: center;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.details {
+  text-align: center;
+  font-size: larger;
+  text-decoration: underline;
+  position: relative;
+}
+
+#submitButton {
+  color: black;
+  background-color: orange;
+  height: 30px;
+  width: 100px;
+}
